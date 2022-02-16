@@ -1,0 +1,4 @@
+3 4
+a s b c
+s b q k
+c k a q
